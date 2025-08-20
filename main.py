@@ -230,7 +230,7 @@ def admin_resolve_complaint(
 
 
 # -------------------------
-# Optional: helper route to inspect current user (for testing)
+# helper route to inspect current user (for testing)
 # -------------------------
 @app.get("/me")
 def who_am_i(current_user: User = Depends(get_current_user)):
