@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "username": "Thankgod",
+        "email": "Thankgod500@gmail.com",
+        "hashed_password": "$2b$12$EPYh5Tcrg4IJGzcBZF0UoOO4Y1OF2lLHAmw8cDmXaZxy7jqxT1L9K",
+        "role": "customer"
+    },
+    {
+        "id": 2,
+        "username": "Thankgod600",
+        "email": "Thankgod600@gmail.com",
+        "hashed_password": "$2b$12$g3jd9GKGRIb0F5l7HZjbuuTWlkE2Onj4wQBa4i53h3gYDydsn1GAK",
+        "role": "customer"
+    },
+    {
+        "id": 3,
+        "username": "Thankgod700",
+        "email": "Thankgod700@gmail.com",
+        "hashed_password": "$2b$12$hI1qVhfYidnVo4HL86UEFO.xNy2qXeiDNNY65VlgpyfR6N5SeUhD6",
+        "role": "admin"
+    }
+]
